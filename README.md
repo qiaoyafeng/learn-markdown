@@ -25,4 +25,4 @@ Mardown 编写 Hello World! 语法：
 
 ### image
 
-![Hello World](/images/111.jpg)
+![Hello World](images/111.jpg)
